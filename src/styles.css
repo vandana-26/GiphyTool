@@ -1,0 +1,38 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: black;
+}
+
+.gifclass {
+  position: relative;
+  width: 25%;
+  height: auto;
+  padding: 5px;
+}
+h1 {
+  color: white;
+}
+
+a {
+  position: relative;
+  text-align: center;
+  color: white;
+  font-size: 80%;
+}
+
+.text {
+  width: 80%;
+  margin-top: 2%;
+  height: 20px;
+}
+
+.btn {
+  height: 25px;
+}
+
+.images {
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+}
